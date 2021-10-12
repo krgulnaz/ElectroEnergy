@@ -1,0 +1,10 @@
+E:\Projects\TaskGitHub\ElectroEnergy\ElectroEnergy\ElectroEnergy\bin\Debug\ElectroEnergy.exe.config
+E:\Projects\TaskGitHub\ElectroEnergy\ElectroEnergy\ElectroEnergy\bin\Debug\ElectroEnergy.exe
+E:\Projects\TaskGitHub\ElectroEnergy\ElectroEnergy\ElectroEnergy\bin\Debug\ElectroEnergy.pdb
+E:\Projects\TaskGitHub\ElectroEnergy\ElectroEnergy\ElectroEnergy\obj\Debug\ElectroEnergy.csprojAssemblyReference.cache
+E:\Projects\TaskGitHub\ElectroEnergy\ElectroEnergy\ElectroEnergy\obj\Debug\ElectroEnergy.Form1.resources
+E:\Projects\TaskGitHub\ElectroEnergy\ElectroEnergy\ElectroEnergy\obj\Debug\ElectroEnergy.Properties.Resources.resources
+E:\Projects\TaskGitHub\ElectroEnergy\ElectroEnergy\ElectroEnergy\obj\Debug\ElectroEnergy.csproj.GenerateResource.cache
+E:\Projects\TaskGitHub\ElectroEnergy\ElectroEnergy\ElectroEnergy\obj\Debug\ElectroEnergy.csproj.CoreCompileInputs.cache
+E:\Projects\TaskGitHub\ElectroEnergy\ElectroEnergy\ElectroEnergy\obj\Debug\ElectroEnergy.exe
+E:\Projects\TaskGitHub\ElectroEnergy\ElectroEnergy\ElectroEnergy\obj\Debug\ElectroEnergy.pdb
