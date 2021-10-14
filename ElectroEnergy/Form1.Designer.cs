@@ -125,6 +125,7 @@
             // 
             // Form1
             // 
+            this.AcceptButton = this.countButton;
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(276, 265);
@@ -137,6 +138,7 @@
             this.Controls.Add(this.currentTextBox);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.MaximizeBox = false;
             this.Name = "Form1";
             this.Text = "Electroenergy";
             this.Load += new System.EventHandler(this.Form1_Load);

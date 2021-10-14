@@ -73,7 +73,7 @@ namespace ElectroEnergy
                 float prev = Convert.ToSingle(this.prevTextBox.Text);
                 float curr = Convert.ToSingle(this.currentTextBox.Text);
                 float price = Convert.ToSingle(this.priceTextBox.Text);
-                if (prev =< curr)
+                if (prev <= curr)
                 {
                     this.resultLabel.Text = "You have to pay: "+((curr - prev) * price).ToString();
                 }
